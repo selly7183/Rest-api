@@ -1,4 +1,4 @@
-# Rest-api
+# REST-API
 
 ** REST (Representational State Transfer)
 :: HTTP에서 필요한 자원에 접근할 때
