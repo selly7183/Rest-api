@@ -1,7 +1,7 @@
 # Rest-api
 
 ** REST (Representational State Transfer)
-::HTTP에서 필요한 자원에 접근할 때
+:: HTTP에서 필요한 자원에 접근할 때
 웹의 장점을 최대한 활용하기 위한 아키텍쳐.
 
 ** REST API의 구성 요소
